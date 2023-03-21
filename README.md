@@ -1,1 +1,1 @@
-# data-diary-projects
+# Data Diary Projects
